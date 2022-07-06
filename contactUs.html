@@ -98,7 +98,7 @@
 						</thead>
 						<tbody>
 							<tr v-if="cart" v-for="i in cart" style="width: 100%;">
-								<td scope="row"><img :src="'images/'+i.image" height="50px" alt=""></td>
+								<td scope="row"><img :src="'images/dillOne/'+i.image" height="50px" alt=""></td>
 								<td>{{i.title}}</td>
 								<td>{{i.short_text}}</td>
 								<td><a @click.prevent="removeFromCart(i.id)"><img src="images/close_red.svg" height="20px" alt="close"

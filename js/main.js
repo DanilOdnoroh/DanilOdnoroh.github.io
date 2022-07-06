@@ -8,7 +8,7 @@ var app = new Vue({
           title: "Red ball",
           short_text:
             "A high-yielding variety with high-quality round root crops ripens for 65-100 days.",
-          image: "redBall.jpg",
+          image: "1.jpg",
           desc: "When sowing before winter, they get high-quality products of the super-early harvest on a bunch. Vegetables are smooth, dense red in color with a lilac tint, weighing from 200 to 500 g.",
         },
         {
@@ -16,7 +16,7 @@ var app = new Vue({
           title: "Boltardi",
           short_text:
             "The leveled burgundy roots are harvested 70-100 days from the moment of mass shoots.",
-          image: "Boltardi.jpg",
+          image: "2.jpg",
           desc: "The variety works well in podzimny and super-early sowing under film, to obtain marketable bundles. Beetroot is round, beautiful, with elastic skin, weighs 150-370 g.",
         },
         {
@@ -24,7 +24,7 @@ var app = new Vue({
           title: "Nochowski",
           short_text:
             "Round dark red roots are almost completely submerged in the soil, so the coarse corky.",
-          image: "Nochowski.jpg",
+          image: "3.jpg",
           desc: "The first harvest is started 70 days after full germination. The beets are attractive - even, weighing 150–380 g, with a dense elastic skin and fine-fiber juicy pulp of a monochromatic cherry-red color.",
         },
         {
@@ -32,7 +32,7 @@ var app = new Vue({
           title: "One-sprout",
           short_text:
             "This variety is one of those with which it is convenient to start the beet season.",
-          image: "One-sprout.jpg",
+          image: "4.jpg",
           desc: "Root crops at Odnorostkova ripen in 72-81 days, and her yield for early varieties is very high. The roots themselves are for lovers of traditional shapes and colors: rounded, with maroon flesh without rings.",
         },
         {
@@ -40,7 +40,7 @@ var app = new Vue({
           title: "Podzimnyaya A-474",
           short_text:
             "This variety is perhaps the best suited for winter crops, and in this case.",
-          image: "Podzimnyaya.jpg",
+          image: "5.jpg",
           desc: "Root crops in Podzimnya look almost the same as in Odnorostkovaya - the most common, with dark red flesh without rings. In good conditions and with proper care, the yield of this variety can reach 6.5 kg / m2, although, I must say, it fluctuates very much, and for many reasons.",
         },
       ],
